@@ -1,5 +1,3 @@
-package com.hackerRank;
-
 import java.time.*;
 import java.util.Scanner;
 
